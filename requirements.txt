@@ -1,0 +1,10 @@
+python-dotenv
+azure-identity
+azure-keyvault-keys
+azure-mgmt-compute>=29.1.0
+azure-mgmt-keyvault>=10.2.0
+azure-mgmt-network>=23.0.0
+azure-mgmt-resource>=23.0.0
+azure-mgmt-dns>=8.0.0
+azure-mgmt-privatedns>=1.0.0
+azure-mgmt-core>=1.4.0
